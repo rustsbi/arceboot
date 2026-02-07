@@ -1,3 +1,9 @@
+# Repository archived
+
+This crate has been moved to repository [rustsbi/rustsbi](https://github.com/rustsbi/rustsbi). Please direct issues and pull requests to the new repository.
+
+---
+
 # ArceBoot
 Reuse [ArceOS](https://github.com/arceos-org/arceos) components to build a cross-platform operating system bootloader
 
